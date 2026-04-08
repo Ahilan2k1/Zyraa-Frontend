@@ -1,6 +1,7 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
 # Compiled output
+.env
 /dist
 /tmp
 /out-tsc
@@ -41,3 +42,8 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+
+
+
+
